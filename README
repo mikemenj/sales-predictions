@@ -1,16 +1,20 @@
-# Title that recommends an action
-## Subtitle describing the analysis 
+# Recommendation of Regression Tree Model for sales predictions
+## Comparison of performance of Linear Regression Model  vs Regression Tree Model
 
 **Author**: Michael Menjares
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
-
+Which of the two models would be best for predicting sales given a set of features?
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
+Link to Data: https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
+Original Data Source from Analytics Vidhya: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
+There were 8523 rows and 12 columns for this dataset
 
+<p align = "center"> 
+  <img src = "https://github.com/mikemenj/sales-predictions/blob/main/data%20dict.png">
+</p>
 
 ## Methods
 - Data preparation steps with explanation and justification for choices
@@ -18,7 +22,7 @@ Data can include source and high-level description (e.g. # obs)
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
+### Here are examples of how to embed images from your sub-folder 
 
 
 #### Visual 1 Title
