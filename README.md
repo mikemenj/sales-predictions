@@ -5,7 +5,7 @@
 
 ### Purpose:
 
-The purpose of this analysis is to compare the performance of a Linear Regression model and a Regression Tree model in predicting sales, and recommend which model would be the best choice based on their respective strengths and weaknesses.
+The purpose of this analysis is to compare the performance of a Linear Regression model and a Regression Tree model in predicting sales, and recommend which model would be the best choice.
 
 ### Data:
 Link to Data: https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
